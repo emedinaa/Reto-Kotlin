@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.emedinaa.retokotlin.MainActivity">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin20"
+            android:layout_marginRight="@dimen/margin20"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin20"
+            android:hint="@string/hint_name"
+            android:id="@+id/editTextName"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editTextName"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin10"
+            android:text="@string/show"
+            android:id="@+id/buttonShow"/>
+</RelativeLayout>

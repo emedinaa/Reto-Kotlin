@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="hint_name">name</string>
+    <string name="show">show</string>
+</resources>
