@@ -11,6 +11,17 @@ Reto Kotlin - Construye tu primera App Android en Kotlin https://devexperto.com/
 
 <img src="./screenshots/invitacion.png" height="480">
 
+## Dependencias 
+ 
+ - Retrofit 2 [http://square.github.io/retrofit/](http://square.github.io/retrofit/)
+ 
+ - Gson [https://github.com/google/gson](https://github.com/google/gson)
+ 
+ - FCM (Firebase Cloud Messaging) [https://firebase.google.com/docs/cloud-messaging/?hl=es-419](https://firebase.google.com/docs/cloud-messaging/?hl=es-419)
+ 
+ - Okhttp3 [https://github.com/square/okhttp](https://github.com/square/okhttp)
+ 
+ 
 ## Referencias
 
 - Iconos https://www.iconfinder.com/
