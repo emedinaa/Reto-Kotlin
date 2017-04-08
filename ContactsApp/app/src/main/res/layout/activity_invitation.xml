@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_invitation"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.emedinaa.contactsapp.ui.InvitationActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginBottom="20dp"
+            android:text="¿Deseas aceptar la invitación de"/>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginBottom="40dp"
+            tools:text="Nombre de Usuario?"
+            android:id="@+id/textViewUserName"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.AppCompatButton
+                android:text="Cancelar"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:textAllCaps="false"
+                android:id="@+id/buttonCancelar" />
+            <android.support.v7.widget.AppCompatButton
+                android:text="Aceptar"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:id="@+id/buttonAceptar" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

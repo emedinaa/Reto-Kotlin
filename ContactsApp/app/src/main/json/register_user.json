@@ -1,0 +1,10 @@
+{
+  "userStatus": "ENABLED",
+  "created": 1491599449000,
+  "name": "Nuevo usuario 2",
+  "ownerId": "9C9EB311-782E-B598-FF09-7FF8771B0E00",
+  "updated": null,
+  "email": "nuevo2@gmail.com",
+  "objectId": "9C9EB311-782E-B598-FF09-7FF8771B0E00",
+  "__meta": "{\"relationRemovalIds\":{},\"selectedProperties\":[\"password\",\"created\",\"___saved\",\"___class\",\"name\",\"ownerId\",\"updated\",\"email\",\"objectId\"],\"relatedObjects\":{}}"
+}

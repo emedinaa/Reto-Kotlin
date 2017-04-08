@@ -1,0 +1,21 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "name": "Pablo Johson",
+      "___class": "Users",
+      "email": "pablo@gmail.com",
+      "objectId": "85FC8D66-D11F-6102-FFFB-F22671AC1B00",
+      "__meta": "{\"relationRemovalIds\":{},\"selectedProperties\":[\"name\",\"___class\",\"email\",\"objectId\"],\"relatedObjects\":{}}"
+    },
+    {
+      "name": "Pedro Carrillo",
+      "___class": "Users",
+      "email": "pedro@gmail.com",
+      "objectId": "C110DB42-9767-23F3-FFAD-EC398179B600",
+      "__meta": "{\"relationRemovalIds\":{},\"selectedProperties\":[\"name\",\"___class\",\"email\",\"objectId\"],\"relatedObjects\":{}}"
+    }
+  ],
+  "nextPage": null,
+  "totalObjects": 2
+}

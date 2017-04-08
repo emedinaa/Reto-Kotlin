@@ -18,7 +18,8 @@ class ContactAdapter (val contacts:List<Contact>,val context:Context): RecyclerV
 
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val textViewName: TextView = view.textViewName
-        val textViewProfession: TextView = view.textViewName
+        val textViewEmail: TextView = view.textViewEmail
+        val textViewProfession: TextView = view.textViewProfession
         val imageViewContact: ImageView = view.imageViewContact
     }
 
@@ -35,10 +36,12 @@ class ContactAdapter (val contacts:List<Contact>,val context:Context): RecyclerV
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
 
-        val name: String = contacts[position].name
+        val contactFullName: String = contacts[position].contactFullName
+        val contactEmail: String = contacts[position].contactEmail
         val profession: String = contacts[position].profession
 
-        holder.textViewName.text = name //To change body of created functions use File | Settings | File Templates.
+        holder.textViewName.text = contactFullName //To change body of created functions use File | Settings | File Templates.
+        holder.textViewEmail.text = contactEmail
         holder.textViewProfession.text = profession
         //holder.iviPhoto.setImageBitmap(getBitmapFromAssets(photo))
     }

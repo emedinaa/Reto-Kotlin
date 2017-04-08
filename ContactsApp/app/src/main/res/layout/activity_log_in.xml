@@ -9,6 +9,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:gravity="center_horizontal"
         android:orientation="vertical">
         <android.support.v7.widget.AppCompatImageView
@@ -16,7 +18,7 @@
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
             android:scaleType="fitXY"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="100dp"
             android:layout_marginBottom="20dp"
             android:src="@mipmap/ic_contact"/>
 
@@ -25,10 +27,20 @@
             android:layout_height="wrap_content"
             android:padding="10dp"
             android:textSize="16sp"
-            android:hint="email"
+            android:hint="E-mail"
+            android:inputType="text"
             android:layout_marginBottom="20dp"
             android:id="@+id/editTextEmail"/>
 
+        <android.support.v7.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/editTextPassword"/>
         <android.support.v7.widget.AppCompatButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -39,5 +51,14 @@
             android:textColor="@android:color/white"
             android:background="@color/colorPrimary"
             android:id="@+id/buttonLogIn"/>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crear nueva cuenta"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="30dp"
+            android:textSize="18sp"
+            android:id="@+id/textViewSignUp"/>
     </LinearLayout>
 </RelativeLayout>

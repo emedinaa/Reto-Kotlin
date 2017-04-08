@@ -1,0 +1,13 @@
+{
+  "lastLogin": 1491605938241,
+  "created": 1491604308000,
+  "name": "Lalo Alfaro",
+  "registrationId": "837004C7-AD61-EE87-FF9E-5FD4B2715500",
+  "___class": "Users",
+  "user-token": "329A1EE0-01E7-8DE3-FFC3-8C9707841000",
+  "ownerId": "F5A4B82D-90A2-BFED-FF1F-63FCFEB6FE00",
+  "updated": null,
+  "email": "lalo@gmail.com",
+  "objectId": "F5A4B82D-90A2-BFED-FF1F-63FCFEB6FE00",
+  "__meta": "{\"relationRemovalIds\":{},\"selectedProperties\":[\"__updated__meta\",\"password\",\"created\",\"name\",\"registrationId\",\"___class\",\"ownerId\",\"updated\",\"email\",\"objectId\"],\"relatedObjects\":{}}"
+}

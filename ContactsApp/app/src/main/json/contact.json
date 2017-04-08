@@ -1,0 +1,14 @@
+{
+  "profession": "Informática",
+  "__updated__meta": "{\"relationRemovalIds\":{},\"selectedProperties\":[\"profession\",\"contactFullName\",\"contactEmail\",\"contactId\",\"created\",\"___class\",\"ownerId\",\"userId\",\"updated\",\"objectId\",\"__meta\"],\"relatedObjects\":{}}",
+  "contactFullName": "Abc User",
+  "contactEmail": "abc@gmail.com",
+  "contactId": "D2F53A7A-0B21-B728-FFD8-F8AC78344A00",
+  "created": 1491576355000,
+  "___class": "Contacts",
+  "ownerId": null,
+  "userId": "3A098CD0-8744-C0D9-FF26-155F1B723300",
+  "updated": 1491582113000,
+  "objectId": "0A66B343-3609-4CC8-FF19-CBAD00E7AA00",
+  "__meta": "{\"relationRemovalIds\":{},\"selectedProperties\":[\"profession\",\"__updated__meta\",\"contactFullName\",\"contactEmail\",\"contactId\",\"created\",\"___class\",\"ownerId\",\"userId\",\"updated\",\"objectId\"],\"relatedObjects\":{}}"
+}

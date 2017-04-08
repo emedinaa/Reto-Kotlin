@@ -1,0 +1,90 @@
+Pragma: : no-cache
+04-07 17:16:01.395 10197-11324/com.emedinaa.contactsapp D/OkHttp: {"registrationId":"EB0AFF13-9A68-9EA1-FF24-869F80588C00"}
+04-07 17:16:01.395 10197-11324/com.emedinaa.contactsapp D/OkHttp: <-- END HTTP (57-byte body)
+04-07 17:16:01.411 10197-10197/com.emedinaa.contactsapp D/TAG: fcm onResponse retrofit2.Response@3148b6ed.body()
+04-07 17:16:01.424 10197-11336/com.emedinaa.contactsapp D/OkHttp: --> POST http://api.backendless.com/v1/users/register http/1.1
+04-07 17:16:01.424 10197-11336/com.emedinaa.contactsapp D/OkHttp: Content-Type: application/json; charset=UTF-8
+04-07 17:16:01.424 10197-11336/com.emedinaa.contactsapp D/OkHttp: Content-Length: 130
+04-07 17:16:01.424 10197-11336/com.emedinaa.contactsapp D/OkHttp: {"email":"diana@gmail.com","name":"Diana López Roca","password":"123456","registrationId":"EB0AFF13-9A68-9EA1-FF24-869F80588C00"}
+04-07 17:16:01.424 10197-11336/com.emedinaa.contactsapp D/OkHttp: --> END POST (130-byte body)
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: <-- 200 OK http://api.backendless.com/v1/users/register (746ms)
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Server: nginx/1.8.1
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Date: Fri, 07 Apr 2017 22:16:04 GMT
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Content-Type: application/json; charset=utf-8
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Content-Length: 483
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Connection: keep-alive
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Headers: Origin, application-id, application-type, Content-Type, secret-key, request, user-token
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE, PATCH
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Origin: *
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Expires: Thu, 01 Jan 1970 00:00:01 GMT
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Cache-Control: no-cache
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Cache-Control: : no-store, no-cache, must-revalidate, private
+04-07 17:16:02.171 10197-11336/com.emedinaa.contactsapp D/OkHttp: Pragma: : no-cache
+04-07 17:16:02.172 10197-11336/com.emedinaa.contactsapp D/OkHttp: {"userStatus":"ENABLED","created":1491603364000,"registrationId":"EB0AFF13-9A68-9EA1-FF24-869F80588C00","name":"Diana López Roca","ownerId":"C433CD40-A293-A890-FFE9-58B80DD3D800","updated":null,"email":"diana@gmail.com","objectId":"C433CD40-A293-A890-FFE9-58B80DD3D800","__meta":"{\"relationRemovalIds\":{},\"selectedProperties\":[\"password\",\"created\",\"___saved\",\"___class\",\"registrationId\",\"name\",\"ownerId\",\"updated\",\"email\",\"objectId\"],\"relatedObjects\":{}}"}
+04-07 17:16:02.172 10197-11336/com.emedinaa.contactsapp D/OkHttp: <-- END HTTP (483-byte body)
+04-07 17:16:02.176 10197-10197/com.emedinaa.contactsapp I/System.out: onResponse retrofit2.Response@197dd56e.body()
+04-07 17:16:02.177 10197-10197/com.emedinaa.contactsapp D/TAG: onResponse retrofit2.Response@197dd56e.body()
+04-07 17:16:09.343 10197-10688/com.emedinaa.contactsapp V/FA: Activity paused, time: 538785301
+04-07 17:16:09.438 10197-10197/com.emedinaa.contactsapp V/FA: onActivityCreated
+04-07 17:16:09.473 10197-10688/com.emedinaa.contactsapp V/FA: Activity resumed, time: 538785431
+04-07 17:16:11.422 10197-10688/com.emedinaa.contactsapp V/FA: Activity paused, time: 538787379
+04-07 17:16:11.463 10197-10197/com.emedinaa.contactsapp V/FA: onActivityCreated
+04-07 17:16:11.527 10197-10688/com.emedinaa.contactsapp V/FA: Activity resumed, time: 538787484
+
+
+ {"registrationId":"4660620D-2961-10E7-FFE0-D639585CE100"}
+04-07 17:19:47.590 22379-22639/com.emedinaa.contactsapp D/OkHttp: <-- END HTTP (57-byte body)
+04-07 17:19:47.603 22379-22379/com.emedinaa.contactsapp D/TAG: fcm onResponse retrofit2.Response@8cae1e3.body()
+04-07 17:19:47.615 22379-22643/com.emedinaa.contactsapp D/OkHttp: --> POST http://api.backendless.com/v1/users/register http/1.1
+04-07 17:19:47.615 22379-22643/com.emedinaa.contactsapp D/OkHttp: Content-Type: application/json; charset=UTF-8
+04-07 17:19:47.615 22379-22643/com.emedinaa.contactsapp D/OkHttp: Content-Length: 125
+04-07 17:19:47.615 22379-22643/com.emedinaa.contactsapp D/OkHttp: {"email":"edu@gmail.com","name":"Eduardo Medina","password":"123456","registrationId":"4660620D-2961-10E7-FFE0-D639585CE100"}
+04-07 17:19:47.615 22379-22643/com.emedinaa.contactsapp D/OkHttp: --> END POST (125-byte body)
+04-07 17:19:48.239 22379-22643/com.emedinaa.contactsapp D/OkHttp: <-- 200 OK http://api.backendless.com/v1/users/register (623ms)
+04-07 17:19:48.239 22379-22643/com.emedinaa.contactsapp D/OkHttp: Server: nginx/1.8.1
+04-07 17:19:48.239 22379-22643/com.emedinaa.contactsapp D/OkHttp: Date: Fri, 07 Apr 2017 22:19:47 GMT
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Content-Type: application/json; charset=utf-8
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Content-Length: 478
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Connection: keep-alive
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Headers: Origin, application-id, application-type, Content-Type, secret-key, request, user-token
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE, PATCH
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Origin: *
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Expires: Thu, 01 Jan 1970 00:00:01 GMT
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Cache-Control: no-cache
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Cache-Control: : no-store, no-cache, must-revalidate, private
+04-07 17:19:48.240 22379-22643/com.emedinaa.contactsapp D/OkHttp: Pragma: : no-cache
+04-07 17:19:48.241 22379-22643/com.emedinaa.contactsapp D/OkHttp: {"userStatus":"ENABLED","created":1491603587000,"name":"Eduardo Medina","registrationId":"4660620D-2961-10E7-FFE0-D639585CE100","ownerId":"A602F3FE-93F1-ABE3-FF6F-B866430C2D00","updated":null,"email":"edu@gmail.com","objectId":"A602F3FE-93F1-ABE3-FF6F-B866430C2D00","__meta":"{\"relationRemovalIds\":{},\"selectedProperties\":[\"password\",\"created\",\"___saved\",\"___class\",\"name\",\"registrationId\",\"ownerId\",\"updated\",\"email\",\"objectId\"],\"relatedObjects\":{}}"}
+04-07 17:19:48.242 22379-22643/com.emedinaa.contactsapp D/OkHttp: <-- END HTTP (478-byte body)
+04-07 17:19:48.247 22379-22379/com.emedinaa.contactsapp I/System.out: onResponse retrofit2.Response@64d420c.body()
+04-07 17:19:48.248 22379-22379/com.emedinaa.contactsapp D/TAG: onResponse retrofit2.Response@64d420c.body()
+04-07 17:19:57.052 22379-22612/com.emedinaa.contactsapp V/FA: Activity paused, time: 110190762
+04-07 17:19:57.091 22379-22379/com.emedinaa.contactsapp V/FA: onActivityCreated
+04-07 17:19:57.115 22379-22612/com.emedinaa.contactsapp V/FA: Activity resumed, time: 110190827
+
+Pragma: : no-cache
+04-07 17:31:49.804 19602-21171/com.emedinaa.contactsapp D/OkHttp: {"registrationId":"837004C7-AD61-EE87-FF9E-5FD4B2715500"}
+04-07 17:31:49.804 19602-21171/com.emedinaa.contactsapp D/OkHttp: <-- END HTTP (57-byte body)
+04-07 17:31:49.817 19602-19602/com.emedinaa.contactsapp D/TAG: fcm onResponse retrofit2.Response@2288fbce.body()
+04-07 17:31:49.831 19602-21193/com.emedinaa.contactsapp D/OkHttp: --> POST http://api.backendless.com/v1/users/register http/1.1
+04-07 17:31:49.831 19602-21193/com.emedinaa.contactsapp D/OkHttp: Content-Type: application/json; charset=UTF-8
+04-07 17:31:49.831 19602-21193/com.emedinaa.contactsapp D/OkHttp: Content-Length: 123
+04-07 17:31:49.831 19602-21193/com.emedinaa.contactsapp D/OkHttp: {"email":"lalo@gmail.com","name":"Lalo Alfaro","password":"123456","registrationId":"837004C7-AD61-EE87-FF9E-5FD4B2715500"}
+04-07 17:31:49.831 19602-21193/com.emedinaa.contactsapp D/OkHttp: --> END POST (123-byte body)
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: <-- 200 OK http://api.backendless.com/v1/users/register (882ms)
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Server: nginx/1.8.1
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Date: Fri, 07 Apr 2017 22:31:48 GMT
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Content-Type: application/json; charset=utf-8
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Content-Length: 476
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Connection: keep-alive
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Headers: Origin, application-id, application-type, Content-Type, secret-key, request, user-token
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE, PATCH
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Access-Control-Allow-Origin: *
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Expires: Thu, 01 Jan 1970 00:00:01 GMT
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Cache-Control: no-cache
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Cache-Control: : no-store, no-cache, must-revalidate, private
+04-07 17:31:50.713 19602-21193/com.emedinaa.contactsapp D/OkHttp: Pragma: : no-cache
+04-07 17:31:50.714 19602-21193/com.emedinaa.contactsapp D/OkHttp: {"userStatus":"ENABLED","created":1491604308000,"registrationId":"837004C7-AD61-EE87-FF9E-5FD4B2715500","name":"Lalo Alfaro","ownerId":"F5A4B82D-90A2-BFED-FF1F-63FCFEB6FE00","updated":null,"email":"lalo@gmail.com","objectId":"F5A4B82D-90A2-BFED-FF1F-63FCFEB6FE00","__meta":"{\"relationRemovalIds\":{},\"selectedProperties\":[\"password\",\"created\",\"___saved\",\"___class\",\"registrationId\",\"name\",\"ownerId\",\"updated\",\"email\",\"objectId\"],\"relatedObjects\":{}}"}
+
+
+
+

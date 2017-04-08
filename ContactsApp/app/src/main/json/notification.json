@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "android-ticker-text": "Invitación de Diana López Roca",
+    "android-content-text": "Invitación de Diana López Roca",
+    "android-content-title": "Esta es un invitación de Diana López Roca"
+  },
+  "message": "Invitación de Diana López Roca",
+  "publishAt": "",
+  "publisherId": "",
+  "pushBroadcast": "",
+  "pushPolicy": "",
+  "pushSinglecast": [
+    "EB0AFF13-9A68-9EA1-FF24-869F80588C00"
+  ]
+}
