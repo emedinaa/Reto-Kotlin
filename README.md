@@ -3,7 +3,9 @@ Reto Kotlin - Construye tu primera App Android en Kotlin https://devexperto.com/
 
 # Aplicación
 
-*ContactsApp*
+**ContactsApp**
+
+Es una aplicación que te permite compartir contactos , creando una red privada donde puedes buscar nuevas personas , enviar una invitación y aceptar invitaciones de otros contactos.
 
 <img src="./screenshots/splash.png" height="480"> <img src="./screenshots/logIn.png" height="480"> <img src="./screenshots/nueva_cuenta.png" height="480">
 
