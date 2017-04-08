@@ -5,13 +5,11 @@ Reto Kotlin - Construye tu primera App Android en Kotlin https://devexperto.com/
 
 *ContactsApp*
 
-<img src="./screenshots/splash.png" height="480"> <img src="./screenshots/logIn.png" height="480">
+<img src="./screenshots/splash.png" height="480"> <img src="./screenshots/logIn.png" height="480"> <img src="./screenshots/nueva_cuenta.png" height="480">
 
-<img src="./screenshots/nueva_cuenta.png" height="480">
+<img src="./screenshots/contacts.png" height="480"> <img src="./screenshots/contact_detail.png" height="480"> <img src="./screenshots/buscador.png" height="480"> 
 
-<img src="./screenshots/contacts.png" height="480"> <img src="./screenshots/contact_detail.png" height="480">
-
-<img src="./screenshots/buscador.png" height="480"> <img src="./screenshots/invitacion.png" height="480">
+<img src="./screenshots/invitacion.png" height="480">
 
 ## Referencias
 
